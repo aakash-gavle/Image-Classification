@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Classification</string>
+    <string name="make_prediction">make prediction</string>
+    <string name="select_image">select image</string>
+    <string name="select_image_and_press_predict_button">select image and press predict button</string>
+    <string name="camera">Camera</string>
+</resources>
